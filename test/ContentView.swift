@@ -15,7 +15,7 @@ struct ContentView: View {
                 NavigationLink(destination: PlanB()) {
                     VStack{
                         Image(systemName: "figure.wave").padding(.top)
-                        Text("Michelle").padding(.bottom).padding(.horizontal) //.foregroundColor(.white) //bisa disini juga
+                        Text("Michan").padding(.bottom).padding(.horizontal) //.foregroundColor(.white) //bisa disini juga
                     }.frame(width: 150, height: 150).background(.blue).foregroundColor(.white).padding()
                     Spacer()
                     VStack{
